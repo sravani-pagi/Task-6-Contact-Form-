@@ -1,0 +1,61 @@
+body {
+  background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  color:#2A3ED
+}
+  .contact-container {
+  width: 350px;
+  margin: 40px auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  background-color: #ffffff;
+  padding: 22px 38px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 18px;
+  color: rgb(1, 7, 13);
+}
+label {
+  display: block;
+  margin: 12px 0 5px;
+  font-weight: 600;
+}
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 7px;
+  border-radius: 5px;
+  border: 1px solid #bbb;
+  font-size: 15px;
+}
+textarea {
+  min-height: 60px;
+  resize: vertical;
+}
+button {
+  width: 100%;
+  background: #0388fc;
+  color: #fff;
+  padding: 9px;
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  cursor: pointer;
+}
+button:hover {
+  background: #0267c1;
+}
+.error {
+  color: #b32d2d;
+  font-size: 13px;
+  min-height: 18px;
+}
+.success {
+  color: #186d33;
+  padding: 10px 0 0;
+  text-align: center;
+  font-size: 15px;
+}

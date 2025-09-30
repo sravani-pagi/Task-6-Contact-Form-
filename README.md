@@ -1,28 +1,26 @@
 ﻿# Task-6-Contact-Form-
-# Project Overview
+ 
 This project is a responsive, user-friendly contact form built using HTML, CSS, and JavaScript. It features client-side input validation, including regex-based email validation, with real-time user feedback for errors and successful submission.
 
-# Features
-Clean, modern UI design with professional styling.
+# Features:
+-Clean, modern UI design with professional styling.
 
-Validation for all form fields to ensure non-empty inputs.
+-Validation for all form fields to ensure non-empty inputs.
 
-Email format validation using regular expressions.
+-Email format validation using regular expressions.
 
-User-friendly error messages displayed below inputs.
+-User-friendly error messages displayed below inputs.
 
-Success message on valid form submission.
+-Success message on valid form submission.
 
-Fully client-side; no backend server required.
+-Fully client-side; no backend server required.
 
-# Technologies Used
+# Technologies:
 HTML5
-
 CSS3
+JavaScript
 
-JavaScript (ES6+)
-
-# How to Use
+# How to Use:
 Clone the repository to your local machine.
 
 Open index.html in a web browser to view and test the contact form.
@@ -31,11 +29,6 @@ Modify styles.css for custom styling.
 
 Modify script.js to adjust validation rules or feedback messages.
 
- # Project Structure
-text
-/
-|-- index.html       # Main HTML file with the contact form
-|-- styles.css       # CSS styles for layout and design
-|-- script.js        # JavaScript for form validation and interactivity
-|-- README.md        # Project documentation (this file)
+
+# Outcome:
 
